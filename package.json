@@ -1,0 +1,19 @@
+{
+  "name": "pokesickle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/pokesickle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathamesh Kurunkar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "commander": "^8.3.0",
+    "configstore": "^6.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
